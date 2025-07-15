@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-[![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://shoppeco.vercel.app/)
+[![Shopco Screenshot](https://raw.githubusercontent.com/DVKedia/Shopco-ecom/refs/heads/main/shopco-cover.png)](https://shoppeco.vercel.app/)
 
 # Shopco
 
