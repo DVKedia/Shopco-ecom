@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/)
 
 # Shopco
@@ -144,3 +145,5 @@ Feel free to reach out to:
 - **Name**: Mohammad Oftadeh
 - **Email**: [mr.mohammadoftadeh@gmail.com](mailto:mr.mohammadoftadeh@gmail.com)
 - **GitHub**: [https://github.com/mohammadoftadeh](https://github.com/mohammadoftadeh)
+=======
+
