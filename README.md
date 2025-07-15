@@ -10,7 +10,6 @@ Shopco is an open-source project that converts a Figma design of an e-commerce w
 - [Shopco](#shopco)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
-  - [Demo](#demo)
   - [Features](#features)
   - [Technologies](#technologies)
   - [Installation](#installation)
@@ -24,12 +23,6 @@ Shopco is an open-source project that converts a Figma design of an e-commerce w
 ## Overview
 
 Shopco bridges the gap between design and development by converting Figma designs into production-ready code. The project follows best practices for **SEO**, **performance optimization**, and **accessibility**, making it a perfect foundation for developers looking to create scalable and maintainable e-commerce front-ends.
-
-## Demo
-
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
-
-<!-- [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/) -->
 
 ## Features
 
@@ -142,8 +135,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 Feel free to reach out to:
 
-- **Name**: Mohammad Oftadeh
-- **Email**: [mr.mohammadoftadeh@gmail.com](mailto:mr.mohammadoftadeh@gmail.com)
-- **GitHub**: [https://github.com/mohammadoftadeh](https://github.com/mohammadoftadeh)
+- **Name**: Dev Vardhan Kedia
+- **Email**: [d3vkedia@gmail.com](mailto:d3vkedia@gmail.com)
+- **GitHub**: [https://github.com/DVKedia](https://github.com/DVKedia)
 =======
 
